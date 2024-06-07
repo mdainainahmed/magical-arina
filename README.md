@@ -25,17 +25,17 @@ This is a simple arina simulation game implemented in JavaScript. Two players ta
 
 ## Running the Application
 
-To run the application, use the following command:
+1. To run the application, use the following command:
 
-```sh
-npm run start
-```
+    ```sh
+    npm run start
+    ```
 
-To run the Test Case, use the following command:
+2. To run the Test Case, use the following command:
 
-```sh
-npm run test
-```
+    ```sh
+    npm run test
+    ```
 
 ## Some Test Cases
 
