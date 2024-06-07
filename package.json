@@ -5,11 +5,14 @@
   "main": "swiggyRound1.js",
   "scripts": {
     "start": "node game.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "author": "Md Ainain Ahmed",
   "license": "ISC",
   "dependencies": {
     "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
   }
 }

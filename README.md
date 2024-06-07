@@ -31,6 +31,12 @@ To run the application, use the following command:
 npm run start
 ```
 
+To run the Test Case, use the following command:
+
+```sh
+npm run test
+```
+
 ## Some Test Cases
 
 1. **Test Case 1:**
